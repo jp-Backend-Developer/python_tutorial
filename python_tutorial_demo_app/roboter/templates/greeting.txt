@@ -1,0 +1,5 @@
+今日のオススメのレストランは、$restaurantです。
+Today I recommend $restaurant restaurant.
+
+このレストランはどうですか？ [Yes/No]
+Do you like it? [y/n]

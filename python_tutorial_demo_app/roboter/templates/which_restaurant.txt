@@ -1,0 +1,2 @@
+今日はどこのレストランにしますか？
+$user_name, which restaurants do you eat?
