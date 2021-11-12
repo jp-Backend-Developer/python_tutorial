@@ -1,0 +1,10 @@
+setup.py
+python_tutorial_demo_app.egg-info/PKG-INFO
+python_tutorial_demo_app.egg-info/SOURCES.txt
+python_tutorial_demo_app.egg-info/dependency_links.txt
+python_tutorial_demo_app.egg-info/top_level.txt
+roboter/__init__.py
+roboter/controller/__init__.py
+roboter/controller/conversation.py
+roboter/views/__init__.py
+roboter/views/console.py

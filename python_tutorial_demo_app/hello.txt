@@ -1,0 +1,1 @@
+'Hi Taishi&Chiharu! What do you feel like eating?\nItalian? Japanese? other?'
